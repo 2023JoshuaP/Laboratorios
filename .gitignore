@@ -4,3 +4,6 @@ linkedlist_print.o
 mainprint.o
 list_print_deb
 list_length
+linkedlist_length.o
+mainlength.o
+list_length_deb
