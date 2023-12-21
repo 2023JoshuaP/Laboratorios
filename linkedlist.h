@@ -8,6 +8,7 @@ struct node {
 
 struct node* BuildOneTwoThree();
 void print(struct node* head);
+int Length(struct node* head);
 void freememory(struct node* head);
 
 #endif
