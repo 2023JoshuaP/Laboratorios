@@ -3,3 +3,4 @@ list_print
 linkedlist_print.o
 mainprint.o
 list_print_deb
+list_length
