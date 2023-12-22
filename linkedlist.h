@@ -7,6 +7,7 @@ struct node {
 };
 
 struct node* BuildOneTwoThree();
+struct node* BuildTwoThree();
 void print(struct node* head);
 int Length(struct node* head);
 void freememory(struct node* head);
