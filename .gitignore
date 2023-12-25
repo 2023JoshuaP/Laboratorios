@@ -8,3 +8,6 @@ linkedlist_length.o
 mainlength.o
 list_length_deb
 list_push
+mainpush.o
+listbuiding_push.o
+list_push_deb
