@@ -7,3 +7,4 @@ list_length
 linkedlist_length.o
 mainlength.o
 list_length_deb
+list_push
