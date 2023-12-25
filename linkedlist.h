@@ -10,6 +10,7 @@ struct node* BuildOneTwoThree();
 struct node* BuildTwoThree();
 void print(struct node* head);
 int Length(struct node* head);
+void Push(struct node** headRef, int data);
 void freememory(struct node* head);
 
 #endif
