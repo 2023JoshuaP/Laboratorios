@@ -14,5 +14,6 @@ void Push(struct node** headRef, int data);
 void freememory(struct node* head);
 int count(struct node* head, int search);
 int GetNth(struct node* current, int index);
+void DeleteList(struct node** headRef);
 
 #endif
