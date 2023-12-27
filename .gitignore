@@ -12,3 +12,4 @@ mainpush.o
 listbuiding_push.o
 list_push_deb
 list_count
+list_delete
